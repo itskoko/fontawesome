@@ -256,7 +256,7 @@ class FontAwesome
                 "github-alt" => 0xf113,
                 "folder-close-alt" => 0xf114,
                 "folder-open-alt" => 0xf115,
-
+                "code" => 0xf121
             };
         end
     end
