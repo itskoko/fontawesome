@@ -258,7 +258,11 @@ class FontAwesome
                 "folder-open-alt" => 0xf115,
                 "code" => 0xf121,
                 "code-fork" => 0xf126,
-                "keyboard" => 0xf11c
+                "keyboard" => 0xf11c,
+                "terminal" => 0xf120,
+                "calendar-empty" => 0xf133,
+                "ellipsis-horizontal" => 0xf141,
+                "ellipsis-vertical" => 0xf142
             };
         end
     end
