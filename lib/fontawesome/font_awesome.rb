@@ -262,7 +262,8 @@ class FontAwesome
                 "terminal" => 0xf120,
                 "calendar-empty" => 0xf133,
                 "ellipsis-horizontal" => 0xf141,
-                "ellipsis-vertical" => 0xf142
+                "ellipsis-vertical" => 0xf142,
+                "expand" => 0xf152
             };
         end
     end
