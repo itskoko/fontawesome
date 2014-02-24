@@ -263,7 +263,8 @@ class FontAwesome
                 "calendar-empty" => 0xf133,
                 "ellipsis-horizontal" => 0xf141,
                 "ellipsis-vertical" => 0xf142,
-                "expand" => 0xf152
+                "expand" => 0xf152,
+                "microphone" => 0xf130
             };
         end
     end
