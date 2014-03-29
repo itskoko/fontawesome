@@ -265,6 +265,8 @@ class FontAwesome
                 "ellipsis-vertical" => 0xf142,
                 "expand" => 0xf152,
                 "microphone" => 0xf130
+                "gear" => 0xf013,
+                "eraser" => 0xf12d
             };
         end
     end
