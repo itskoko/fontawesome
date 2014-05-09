@@ -266,7 +266,8 @@ class FontAwesome
                 "expand" => 0xf152,
                 "microphone" => 0xf130,
                 "gear" => 0xf013,
-                "eraser" => 0xf12d
+                "eraser" => 0xf12d,
+                "bars" => 0xf0c9
             };
         end
     end
