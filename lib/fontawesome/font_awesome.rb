@@ -267,7 +267,8 @@ class FontAwesome
                 "microphone" => 0xf130,
                 "gear" => 0xf013,
                 "eraser" => 0xf12d,
-                "bars" => 0xf0c9
+                "bars" => 0xf0c9,
+                "times" => 0xf00d
             };
         end
     end
